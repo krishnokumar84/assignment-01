@@ -55,6 +55,10 @@ body {
     font-size: 15px;
     color: #111;
 }
+.profile-card .details h3 {
+    font-size: 15px;
+    color: #111;
+}
 .profile-card .numbers {
     padding: 15px 40px;
     display: flex;
